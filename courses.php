@@ -146,6 +146,23 @@
             </div>
           </div> <!-- End Course Item-->
 
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="course-item">
+              <img src="assets/img/course-dip-psy.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>Social</h4>
+                </div>
+
+                <h3><a href="dip-psy.php">Diploma in Human Psychology & Organizational Behaviour</a></h3>
+                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
+                  tempore.</p>
+                <a href="dip-psy.php" class="btn btn-success">More Details ></a>
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
         </div>
 
       </div>

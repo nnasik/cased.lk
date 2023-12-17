@@ -84,12 +84,6 @@
               government Agencies and International, National NGOs and private organizations in Sri
               Lanka.
             </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i>Diploma in Sinhala language skills in 12 months.</li>
-              <li><i class="bi bi-check-circle"></i>Diploma in Human Resource Management in 12 months.</li>
-              <li><i class="bi bi-check-circle"></i>Diploma in Office Management in 12 months.</li>
-              <li><i class="bi bi-check-circle"></i>Diploma in English language skills in 12 months.</li>
-            </ul>
 
           </div>
         </div>
