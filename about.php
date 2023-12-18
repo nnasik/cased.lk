@@ -61,8 +61,8 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Heading</h3>
-            <p>
+            <h3>Comparative Analysis for Science Environment Development (CASED)</h3>
+            <p style="text-align:justify">
               Institute of Comparative Analysis for Scientific Environmental Development (CASED) is a
               private and registered multidisciplinary research organization. which is working to promote
               better education services for youths in order to establish economy development in the
@@ -72,13 +72,13 @@
               peaceful skills to deliver healthy services and obligate volunteer-ship to support business
               assignments and the participatory development to the Nation.
             </p>
-            <p>
+            <p style="text-align:justify">
               Encouraging the young people for the meaningful participation and involvement of all
-              sections is a fundamental aspect of our organization that would an economy towards growth
+              sections is a fundamental aspect of our organization that would an economy towards growth
               and sustainability employment as it expands the capability of youths to promote to
               participate socially, economically and politically.
             </p>
-            <p>
+            <p style="text-align:justify">
               Providing access to market-oriented quality education to young people by creating a skilled
               workforce that would reach the country to sustainable development with the consulting of
               government Agencies and International, National NGOs and private organizations in Sri
@@ -98,25 +98,25 @@
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1"
+            <span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Students</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="64" data-purecounter-duration="1"
+            <span data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Courses</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="1"
+            <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Events</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
+            <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Trainers</p>
           </div>
