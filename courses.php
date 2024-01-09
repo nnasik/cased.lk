@@ -74,8 +74,7 @@
                 </div>
 
                 <h3><a href="dip-sinhala.php">Diploma in Sinhala Language</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
-                  tempore.</p>
+                <p></p>
                 <a href="dip-sinhala.php" class="btn btn-success">More Details ></a>
               </div>
             </div>
@@ -90,8 +89,7 @@
                 </div>
 
                 <h3><a href="dip-hrm.php">Diploma in Human Resource Management</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
-                  tempore.</p>
+                <p>Empowers youth with a 12-month HRM program, fostering market-oriented strategies for economic development.</p>
                 <a href="dip-hrm.php" class="btn btn-success">More Details ></a>
               </div>
             </div>
@@ -106,8 +104,7 @@
                 </div>
 
                 <h3><a href="dip-office.php">Diploma in Office Management</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
-                  tempore.</p>
+                <p>Drive economic growth through meaningful youth involvement, offering a 12-month Office Management Diploma for sustainable employment.</p>
                 <a href="dip-office.php" class="btn btn-success">More Details ></a>
               </div>
             </div>
@@ -122,8 +119,7 @@
                 </div>
 
                 <h3><a href="dip-english.php">Diploma in English Language</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
-                  tempore.</p>
+                <p>Promoting talent and peaceful skills, CASED Institute offers a 12-month Diploma in English Language Skills for youth.</p>
                 <a href="dip-english.php" class="btn btn-success">More Details ></a>
               </div>
             </div>
@@ -139,8 +135,7 @@
                 </div>
 
                 <h3><a href="dip-hrm-office.php">Diploma in HRM & Office Management</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
-                  tempore.</p>
+                <p></p>
                 <a href="dip-hrm-office.php" class="btn btn-success">More Details ></a>
               </div>
             </div>
@@ -156,8 +151,7 @@
                 </div>
 
                 <h3><a href="dip-psy.php">Diploma in Human Psychology & Organizational Behaviour</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
-                  tempore.</p>
+                <p></p>
                 <a href="dip-psy.php" class="btn btn-success">More Details ></a>
               </div>
             </div>

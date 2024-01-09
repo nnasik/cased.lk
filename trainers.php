@@ -77,8 +77,6 @@ Bachelor in Social Science, master in Social Science (Development Studies and Pu
               </div>
             </div>
           </div>
-
-
         </div>
 
       </div>
